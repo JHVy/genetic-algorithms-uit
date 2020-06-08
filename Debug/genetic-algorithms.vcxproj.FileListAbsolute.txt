@@ -1,0 +1,2 @@
+C:\Users\Huynh Ha Vy\source\repos\genetic-algorithms\Debug\genetic-algorithms.exe
+C:\Users\Huynh Ha Vy\source\repos\genetic-algorithms\Debug\genetic-algorithms.pdb
